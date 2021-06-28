@@ -109,6 +109,29 @@ numstring2 = "232raja"
 print(numstring2.isnumeric())
 
 
+person = "Ravi"
+person2 = "Krish"
+work="Cricket"
+work2 = "Music"
+
+
+#String Formating
+sentence= "{} is going to play {}".format(person, work)
+# sentence2 = "Krish is going to play music"
+sentence2= "{} is going to play {}"
+
+print(sentence)
+# print(sentence2)
+
+print(sentence2.format(person2, work2))
+
+person3="Sreya"
+work3="chess"
+
+#F-strings
+sentence3 = f"{person3} is going to play {work3}"
+print(sentence3)
+
 
 
 

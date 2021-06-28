@@ -1,0 +1,23 @@
+# Arithmetic Operators:
+# Addition:       +
+# Subtraction:    -
+# Multiplication: *
+# Division:       /
+# Floor Division: //
+# Exponent:       **
+# Modulus:        %
+
+
+# Comparison Operators:
+# Equal:            ==
+# Not Equal:        !=
+# Greater Than:     >
+# Less Than:        <
+# Greater or Equal: >=
+# Less or Equal:    <=
+
+#Logical Operators:
+and
+or
+not
+
