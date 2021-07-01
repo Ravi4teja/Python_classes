@@ -21,3 +21,6 @@ print(names1.intersection(names2))
 
 #Combines all the elements in the two strings and returns the unique elements.
 print(names1.union(names2))
+
+#Create an empty set
+some = set()

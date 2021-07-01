@@ -132,6 +132,31 @@ work3="chess"
 sentence3 = f"{person3} is going to play {work3}"
 print(sentence3)
 
+#input() method Reads value given in the runtime.
+#It will take a string
+name5 = input("Can you give some name:")
+
+print(name5)
+
+num5 = input("Give me the number: ")
+
+print(num5)
+
+print(type(num5))
+
+# "77"------ 77
+#Convert the string to integer
+num5 = int(num5)
+
+print(type(num5))
+
+# str(num5), float(num5), int(num5)
+
+
+
+
+
+
 
 
 

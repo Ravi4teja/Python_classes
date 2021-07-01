@@ -138,6 +138,19 @@ names = ['Ravi',
 #accessing the nested list
 print(names[1][1][1])
 
+#Creating empty list
+list1 = []
+
+list1.append('something')
+
+#Creating empty list
+list2 = list()
+
+list2.append('something')
+
+print(list1)
+print(list2)
+
 
 
 

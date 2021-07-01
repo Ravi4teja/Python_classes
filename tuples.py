@@ -16,3 +16,9 @@ print(students[1:3])
 #append method is not there in the tuples as it is immutable
 # students.append("sireesha")
 
+#Creating the empty tuple
+tuple1 = tuple()
+
+#Creating the empty tuple
+tuple2 = ()
+
