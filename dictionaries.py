@@ -51,5 +51,15 @@ dict2['work'] = 'Software'
 print(dict1)
 print(dict2)
 
+print(student)
+
+#keys() method will give the list of keys of a dictionary.
+print(student.keys())
+
+#values() method will give the list of values of a dictionary.
+print(student.values())
+
+#items() method will give the list of items of a dictionary.
+print(student.items())
 
 
