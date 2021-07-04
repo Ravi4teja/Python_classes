@@ -103,6 +103,7 @@ countries = countries + ['Mexico', 'westindies']
 print(countries)
 
 #checking the element present in the list
+#True/False as an output
 print('UK' in countries)
 
 sentence = "Krish is going to park"
