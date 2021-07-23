@@ -2,13 +2,15 @@
 name = "Sreya"
 name2 = "Krish"
 
+#String concatenation
 print (name + name2)
 
+#assigning string with multiple lines
 sentence = """Hi,Good morning!
 how are you.
 """
 
-
+#assigning string with multiple lines
 sentence = '''Hi, Good Evening!
 how are you.
 '''
@@ -18,8 +20,9 @@ print(sentence)
 #find the number of characters in a string
 print(len(name))
 
-#capi
+#returns the upper case of the string
 print(name.upper())
+#returns the lower case of the string
 print(name2.lower())
 
 print("ravi teja is giving lession".title())
