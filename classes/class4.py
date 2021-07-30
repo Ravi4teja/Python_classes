@@ -29,7 +29,7 @@ class Developer(Employee):
     #Changing the class variable
     raise_income = 1.07
 
-    #__init__ method(Constructor) for Developer class
+    #Overriding the __init__ method(Constructor) for Developer class
     def __init__(self, first, last, salary, programming_lang):
 
         #Reusing and calling the Parent class constructor
@@ -48,7 +48,7 @@ print(dev_1.programming_lang)
 
 class Manager(Employee):
     
-    #__init__ method(Constructor) for Manager class
+    #Overriding the __init__ method(Constructor) for Manager class
     def __init__(self, first, last, salary, emps = None):
         #Reusing and calling the Parent class constructor
         super().__init__(first, last, salary)
